@@ -1,6 +1,7 @@
-# Jesus-Medina.github.io
+# Lovelace's Computing
 Lovelace's Computers
-![preview](https://user-images.githubusercontent.com/102434136/160261829-89bb64ab-f57f-4ebf-9f6b-b45ef849f21e.png)
+
+![preview](https://user-images.githubusercontent.com/102434136/160261908-8fe7d86a-6ed4-47d2-99b0-763bf6805532.png)
 
 
 Tecnologias
